@@ -5,9 +5,9 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 
 
-### Deploy To Heroku
+## Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MufazTG/TG-Unlimited-Filter-Bot)
 
 ### Features
 * Nearly unlimited filters
