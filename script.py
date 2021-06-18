@@ -6,6 +6,8 @@ I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)
 
 See <i>/help</i> for commands and more details.</b>
+
+Maded By : @BX_Botz
 """
 
 
@@ -48,13 +50,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @Mo_Tech_YT</b>
+**[©️ ʙx ʙᴏᴛᴢ](https://t.me/BX_Botz)**
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : MT Unlimited Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Unlimited Filter Bot</b>
 
-⭕️<b>Creater :</b> <b>@Mo_Tech_YT</b>    
+⭕️<b>Creater :</b> <b>@BX_Botz</b>    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
