@@ -6,11 +6,11 @@
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
-        "MoTechYT"
+        "BX Botz"
     ],
-    "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MRK-YT/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/Mo_Tech_YT",
+    "website": "https://github.com/MufazTG",
+    "repository": "https://github.com/MufazTG/TG-Unlimited-Filter-Bot",
+    "success_url": "https://telegram.dog/BX_Botz",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
