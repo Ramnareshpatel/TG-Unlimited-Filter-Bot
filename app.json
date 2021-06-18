@@ -1,7 +1,7 @@
 {
     "name": "UNLIMITED FILTER BOT",
     "description": "An unlimited filter bot using Mongo DB",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.jpg",
+    "logo": "https://telegra.ph/file/ffa6e9eba9e83b1e036bc.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
@@ -21,11 +21,11 @@
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
         "API_ID": {
-            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID from my.telegram.org",
             "value": ""
         },
         "AUTH_USERS": {
