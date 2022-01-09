@@ -7,7 +7,7 @@
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MufazTG/TG-Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ramnareshpatel/TG-Unlimited-Filter-Bot)
 
 ### Features
 * Nearly unlimited filters
